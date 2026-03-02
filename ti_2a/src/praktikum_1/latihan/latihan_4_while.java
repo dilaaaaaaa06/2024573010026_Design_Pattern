@@ -1,4 +1,4 @@
-package latihan;
+package praktikum_1.latihan;
 
 public class latihan_4_while {
     public static void main(String[] args) {
