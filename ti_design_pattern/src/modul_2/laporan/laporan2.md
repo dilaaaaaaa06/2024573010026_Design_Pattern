@@ -1069,7 +1069,7 @@ Penjelasan Program:
 - Aplikasi ini siap digunakan dan dapat dikembangkan lebih lanjut dengan menambahkan fitur seperti penyimpanan data ke file atau database.
 
 ## 3. Kesimpulan
-Dalam praktiku ini, kita telah mempelajari konsep dasar Pemrograman Berorientasi Objek (OOP) menggunakan Java, meliputi:
+Dalam praktikum ini, kita telah mempelajari konsep dasar Pemrograman Berorientasi Objek (OOP) menggunakan Java, meliputi:
 
 Class dan Object: Blueprint dan instance untuk membangun program.
 Encapsulation: Menyembunyikan detail implementasi dengan access modifier dan getter-setter.
