@@ -2,12 +2,17 @@ package modul_2.bagian_2.latihan;
 
 public class Main {
     public static void main(String[] args) {
-        Motor motor1 = new Motor();
 
-        motor1.setMerk("Honda");
-        motor1.setTahun(2022);
+        // Membuat object
+        Lingkaran lingkaran1 = new Lingkaran();
 
-        System.out.println("Merk Motor : " + motor1.getMerk());
-        System.out.println("Tahun Motor : " + motor1.getTahun());
+        // Mengisi nilai jari-jari
+        lingkaran1.jariJari = 7;
+
+        // Memanggil method hitungLuas()
+        double luas = lingkaran1.hitungLuas();
+
+        // Menampilkan hasil
+        System.out.println("Luas lingkaran: " + luas);
     }
 }

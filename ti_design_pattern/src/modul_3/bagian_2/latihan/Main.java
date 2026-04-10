@@ -1,0 +1,13 @@
+package modul_3.bagian_2.latihan;
+
+public class Main {
+    public static void main(String[] args) {
+        Motor motor1 = new Motor();
+
+        motor1.setMerk("Honda");
+        motor1.setTahun(2022);
+
+        System.out.println("Merk Motor : " + motor1.getMerk());
+        System.out.println("Tahun Motor : " + motor1.getTahun());
+    }
+}

@@ -285,6 +285,7 @@ Di dalam blok perulangan terdapat perintah System.out.println("Iterasi ke-" + i)
 
          }
          }
+
 3. Buat sebuah class baru di dalam package modul_1 dan beri nama Segitiga dan isikan kode berikut. Kemudian jalankan untuk melihat hasilnya.
 
          public class Segitiga {
@@ -332,8 +333,6 @@ Iterasi 5 → hasil = 24 × 5 = 120
 
 Setelah perulangan selesai, program menampilkan hasil menggunakan perintah
 System.out.println("Faktorial dari " + n + " adalah " + hasil); sehingga output yang ditampilkan adalah Faktorial dari 5 adalah 120.
-
-
 Solusi dari permasalahan menghitung faktorial pada program ini dilakukan dengan menggunakan perulangan for. Program melakukan perkalian secara berulang dari angka 1 sampai dengan nilai bilangan yang ditentukan. Dengan metode ini, program dapat menghitung faktorial secara otomatis tanpa harus menuliskan perkalian satu per satu.
 
 2. Prima
